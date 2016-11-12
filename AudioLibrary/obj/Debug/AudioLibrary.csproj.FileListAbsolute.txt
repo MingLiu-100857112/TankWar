@@ -1,0 +1,12 @@
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\AudioLibrary\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\AudioLibrary\obj\Debug\AudioLibrary.csprojResolveAssemblyReference.cache
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\AudioLibrary\obj\Debug\AudioLibrary.pdb
+C:\Users\Administrator\Desktop\TankWar - 副本\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Users\Administrator\Desktop\TankWar - 副本\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Users\Administrator\Desktop\TankWar - 副本\AudioLibrary\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\Administrator\Desktop\TankWar - 副本\AudioLibrary\obj\Debug\AudioLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TankWar - 副本\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Users\Administrator\Desktop\TankWar - 副本\AudioLibrary\obj\Debug\AudioLibrary.pdb

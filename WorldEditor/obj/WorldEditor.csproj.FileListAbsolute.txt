@@ -1,0 +1,9 @@
+I:\OLD\Visual Studio 2005\Projects\坦克大战\TankWar\WorldEditor\obj\Debug\WorldEditor.exe
+I:\OLD\Visual Studio 2005\Projects\坦克大战\TankWar\WorldEditor\obj\Debug\WorldEditor.pdb
+I:\OLD\Visual Studio 2005\Projects\坦克大战\TankWar\WorldEditor\bin\Debug\WorldEditor.exe
+I:\OLD\Visual Studio 2005\Projects\坦克大战\TankWar\WorldEditor\bin\Debug\WorldEditor.pdb
+I:\OLD\Visual Studio 2005\Projects\坦克大战\TankWar\WorldEditor\obj\Debug\ResolveAssemblyReference.cache
+I:\OLD\Visual Studio 2005\Projects\坦克大战\TankWar\WorldEditor\obj\Debug\WorldEditor.AboutForm.resources
+I:\OLD\Visual Studio 2005\Projects\坦克大战\TankWar\WorldEditor\obj\Debug\WorldEditor.Form1.resources
+I:\OLD\Visual Studio 2005\Projects\坦克大战\TankWar\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+I:\OLD\Visual Studio 2005\Projects\坦克大战\TankWar\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache

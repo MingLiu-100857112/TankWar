@@ -1,0 +1,90 @@
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\TankWar\bin\Debug\TankWar.exe
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\TankWar\bin\Debug\TankWar.pdb
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\TankWar\bin\Debug\AudioLibrary.dll
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\TankWar\bin\Debug\WorldEditor.exe
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\TankWar\bin\Debug\AudioLibrary.pdb
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\TankWar\bin\Debug\WorldEditor.pdb
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\TankWar\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\TankWar\obj\Debug\TankWar.csprojResolveAssemblyReference.cache
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\TankWar\obj\Debug\TankWar.AboutForm.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\TankWar\obj\Debug\TankWar.GameForm.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\TankWar\obj\Debug\TankWar.StartForm.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\TankWar\obj\Debug\TankWar.csproj.GenerateResource.Cache
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\TankWar\obj\Debug\TankWar.exe
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\TankWar\obj\Debug\TankWar.pdb
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\TankWar\obj\Debug\TankWar.exe
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\TankWar\obj\Debug\TankWar.pdb
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\TankWar\bin\Debug\TankWar.exe
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\TankWar\bin\Debug\TankWar.pdb
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\TankWar\bin\Debug\AudioLibrary.dll
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\TankWar\bin\Debug\WorldEditor.exe
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\TankWar\bin\Debug\AudioLibrary.pdb
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\TankWar\bin\Debug\WorldEditor.pdb
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\TankWar\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\TankWar\obj\Debug\TankWar.csprojResolveAssemblyReference.cache
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\TankWar\obj\Debug\TankWar.AboutForm.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\TankWar\obj\Debug\TankWar.GameForm.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\TankWar\obj\Debug\TankWar.StartForm.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\TankWar\obj\Debug\TankWar.csproj.GenerateResource.Cache
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\TankWar\obj\Debug\TankWar.exe
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\TankWar\obj\Debug\TankWar.pdb
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\TankWar\obj\Debug\TankWar.csprojResolveAssemblyReference.cache
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\TankWar\obj\Debug\TankWar.AboutForm.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\TankWar\obj\Debug\TankWar.GameForm.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\TankWar\obj\Debug\TankWar.StartForm.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\TankWar\obj\Debug\TankWar.csproj.GenerateResource.Cache
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\TankWar\bin\Debug\TankWar.exe
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\TankWar\bin\Debug\TankWar.pdb
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\TankWar\bin\Debug\AudioLibrary.dll
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\TankWar\bin\Debug\WorldEditor.exe
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\TankWar\bin\Debug\AudioLibrary.pdb
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\TankWar\bin\Debug\WorldEditor.pdb
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\TankWar\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\Administrator\Desktop\TankWar\TankWar\obj\Debug\TankWar.exe
+C:\Users\Administrator\Desktop\TankWar\TankWar\obj\Debug\TankWar.pdb
+C:\Users\Administrator\Desktop\TankWar\TankWar\bin\Debug\TankWar.exe
+C:\Users\Administrator\Desktop\TankWar\TankWar\bin\Debug\TankWar.pdb
+C:\Users\Administrator\Desktop\TankWar\TankWar\bin\Debug\AudioLibrary.dll
+C:\Users\Administrator\Desktop\TankWar\TankWar\bin\Debug\WorldEditor.exe
+C:\Users\Administrator\Desktop\TankWar\TankWar\bin\Debug\AudioLibrary.pdb
+C:\Users\Administrator\Desktop\TankWar\TankWar\bin\Debug\WorldEditor.pdb
+C:\Users\Administrator\Desktop\TankWar\TankWar\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\Administrator\Desktop\TankWar\TankWar\obj\Debug\TankWar.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TankWar\TankWar\obj\Debug\TankWar.AboutForm.resources
+C:\Users\Administrator\Desktop\TankWar\TankWar\obj\Debug\TankWar.GameForm.resources
+C:\Users\Administrator\Desktop\TankWar\TankWar\obj\Debug\TankWar.StartForm.resources
+C:\Users\Administrator\Desktop\TankWar\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TankWar\TankWar\obj\Debug\TankWar.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TankWar - 副本\TankWar\obj\Debug\TankWar.exe
+C:\Users\Administrator\Desktop\TankWar - 副本\TankWar\obj\Debug\TankWar.pdb
+C:\Users\Administrator\Desktop\TankWar - 副本\TankWar\bin\Debug\TankWar.exe
+C:\Users\Administrator\Desktop\TankWar - 副本\TankWar\bin\Debug\TankWar.pdb
+C:\Users\Administrator\Desktop\TankWar - 副本\TankWar\bin\Debug\AudioLibrary.dll
+C:\Users\Administrator\Desktop\TankWar - 副本\TankWar\bin\Debug\WorldEditor.exe
+C:\Users\Administrator\Desktop\TankWar - 副本\TankWar\bin\Debug\AudioLibrary.pdb
+C:\Users\Administrator\Desktop\TankWar - 副本\TankWar\bin\Debug\WorldEditor.pdb
+C:\Users\Administrator\Desktop\TankWar - 副本\TankWar\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\Administrator\Desktop\TankWar - 副本\TankWar\obj\Debug\TankWar.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TankWar - 副本\TankWar\obj\Debug\TankWar.AboutForm.resources
+C:\Users\Administrator\Desktop\TankWar - 副本\TankWar\obj\Debug\TankWar.StartForm.resources
+C:\Users\Administrator\Desktop\TankWar - 副本\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TankWar - 副本\TankWar\obj\Debug\TankWar.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TankWar - 副本\TankWar\obj\Debug\TankWar.GameInterface.resources
+C:\Users\leo\Desktop\TankWar -copy\TankWar\obj\Debug\TankWar.exe
+C:\Users\leo\Desktop\TankWar -copy\TankWar\obj\Debug\TankWar.pdb
+C:\Users\leo\Desktop\TankWar -copy\TankWar\bin\Debug\TankWar.exe
+C:\Users\leo\Desktop\TankWar -copy\TankWar\bin\Debug\TankWar.pdb
+C:\Users\leo\Desktop\TankWar -copy\TankWar\bin\Debug\AudioLibrary.dll
+C:\Users\leo\Desktop\TankWar -copy\TankWar\bin\Debug\WorldEditor.exe
+C:\Users\leo\Desktop\TankWar -copy\TankWar\bin\Debug\AudioLibrary.pdb
+C:\Users\leo\Desktop\TankWar -copy\TankWar\bin\Debug\WorldEditor.pdb
+C:\Users\leo\Desktop\TankWar -copy\TankWar\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml
+C:\Users\leo\Desktop\TankWar -copy\TankWar\obj\Debug\TankWar.csprojResolveAssemblyReference.cache
+C:\Users\leo\Desktop\TankWar -copy\TankWar\obj\Debug\TankWar.AboutForm.resources
+C:\Users\leo\Desktop\TankWar -copy\TankWar\obj\Debug\TankWar.GameInterface.resources
+C:\Users\leo\Desktop\TankWar -copy\TankWar\obj\Debug\TankWar.StartForm.resources
+C:\Users\leo\Desktop\TankWar -copy\TankWar\obj\Debug\TankWar.Properties.Resources.resources
+C:\Users\leo\Desktop\TankWar -copy\TankWar\obj\Debug\TankWar.csproj.GenerateResource.Cache

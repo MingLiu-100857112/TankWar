@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\MagicWars\AudioLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\MagicWars\AudioLibrary\bin\Debug\AudioLibrary.dll
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\MagicWars\AudioLibrary\bin\Debug\AudioLibrary.pdb
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\MagicWars\AudioLibrary\obj\Debug\AudioLibrary.dll
+C:\Users\Administrator\Documents\Visual Studio 2005\Projects\MagicWars\AudioLibrary\obj\Debug\AudioLibrary.pdb
+I:\OLD\Visual Studio 2005\Projects\坦克大战\TankWar\AudioLibrary\bin\Debug\AudioLibrary.dll
+I:\OLD\Visual Studio 2005\Projects\坦克大战\TankWar\AudioLibrary\bin\Debug\AudioLibrary.pdb
+I:\OLD\Visual Studio 2005\Projects\坦克大战\TankWar\AudioLibrary\obj\Debug\ResolveAssemblyReference.cache
+I:\OLD\Visual Studio 2005\Projects\坦克大战\TankWar\AudioLibrary\obj\Debug\AudioLibrary.dll
+I:\OLD\Visual Studio 2005\Projects\坦克大战\TankWar\AudioLibrary\obj\Debug\AudioLibrary.pdb
+I:\OLD\Visual Studio 2005\Projects\坦克大战\TankWar\AudioLibrary\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+I:\OLD\Visual Studio 2005\Projects\坦克大战\TankWar\AudioLibrary\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.xml

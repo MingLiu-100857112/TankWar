@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TankWar", "TankWar\TankWar.csproj", "{51E0C709-8000-479B-8C5B-DE09D558EF42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioLibrary", "AudioLibrary\AudioLibrary.csproj", "{EBDB1C5C-1C2A-46B0-93FE-20B6A9BAB7A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldEditor", "WorldEditor\WorldEditor.csproj", "{B7CDCB84-62E4-4F9A-869B-26D3E67B8C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51E0C709-8000-479B-8C5B-DE09D558EF42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E0C709-8000-479B-8C5B-DE09D558EF42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E0C709-8000-479B-8C5B-DE09D558EF42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E0C709-8000-479B-8C5B-DE09D558EF42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBDB1C5C-1C2A-46B0-93FE-20B6A9BAB7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDB1C5C-1C2A-46B0-93FE-20B6A9BAB7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDB1C5C-1C2A-46B0-93FE-20B6A9BAB7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDB1C5C-1C2A-46B0-93FE-20B6A9BAB7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7CDCB84-62E4-4F9A-869B-26D3E67B8C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7CDCB84-62E4-4F9A-869B-26D3E67B8C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7CDCB84-62E4-4F9A-869B-26D3E67B8C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7CDCB84-62E4-4F9A-869B-26D3E67B8C01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,47 @@
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\WorldEditor\bin\Debug\WorldEditor.exe
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\WorldEditor\obj\Debug\WorldEditor.AboutForm.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\WorldEditor\obj\Debug\WorldEditor.Form1.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\WorldEditor\bin\Debug\WorldEditor.exe
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\WorldEditor\obj\Debug\WorldEditor.AboutForm.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\WorldEditor\obj\Debug\WorldEditor.Form1.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar_orginal - Copy\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\WorldEditor\bin\Debug\WorldEditor.exe
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\WorldEditor\obj\Debug\WorldEditor.AboutForm.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\WorldEditor\obj\Debug\WorldEditor.Form1.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\leo\Desktop\Game\TankWar_Final\TankWar\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\Administrator\Desktop\TankWar\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\Administrator\Desktop\TankWar\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\Administrator\Desktop\TankWar - 副本\WorldEditor\bin\Debug\WorldEditor.exe
+C:\Users\Administrator\Desktop\TankWar - 副本\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Users\Administrator\Desktop\TankWar - 副本\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TankWar - 副本\WorldEditor\obj\Debug\WorldEditor.AboutForm.resources
+C:\Users\Administrator\Desktop\TankWar - 副本\WorldEditor\obj\Debug\WorldEditor.Form1.resources
+C:\Users\Administrator\Desktop\TankWar - 副本\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TankWar - 副本\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\TankWar - 副本\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\Administrator\Desktop\TankWar - 副本\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\leo\Desktop\TankWar -copy\WorldEditor\obj\Debug\WorldEditor.exe
+C:\Users\leo\Desktop\TankWar -copy\WorldEditor\obj\Debug\WorldEditor.pdb
+C:\Users\leo\Desktop\TankWar -copy\WorldEditor\bin\Debug\WorldEditor.exe
+C:\Users\leo\Desktop\TankWar -copy\WorldEditor\bin\Debug\WorldEditor.pdb
+C:\Users\leo\Desktop\TankWar -copy\WorldEditor\obj\Debug\WorldEditor.csprojResolveAssemblyReference.cache
+C:\Users\leo\Desktop\TankWar -copy\WorldEditor\obj\Debug\WorldEditor.AboutForm.resources
+C:\Users\leo\Desktop\TankWar -copy\WorldEditor\obj\Debug\WorldEditor.Form1.resources
+C:\Users\leo\Desktop\TankWar -copy\WorldEditor\obj\Debug\WorldEditor.Properties.Resources.resources
+C:\Users\leo\Desktop\TankWar -copy\WorldEditor\obj\Debug\WorldEditor.csproj.GenerateResource.Cache

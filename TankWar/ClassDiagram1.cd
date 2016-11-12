@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="TankWar.AboutForm">
+    <Position X="29.25" Y="8" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>AboutForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankWar.BattleMap">
+    <Position X="33.25" Y="7.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAQAAAAAACAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>BattleMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankWar.Block">
+    <Position X="7" Y="0.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AQQAQAAQAAACAAAggCAAAAAAAQAAAxAAAAAAAjAAAAQ=</HashCode>
+      <FileName>Block.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankWar.Bonus">
+    <Position X="11.75" Y="0.5" Width="6" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAABAAAAQAAAAAAAAAQAAAAABAAAAA=</HashCode>
+      <FileName>Bonus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankWar.Explosion">
+    <Position X="11.75" Y="6.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAEAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Explosion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankWar.GameEntry">
+    <Position X="31.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>GameEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankWar.GameInterface">
+    <Position X="29.25" Y="11.25" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>BCBAAJAAADQgAAQCAQKAABCKgQAAAAAAAAYAAABIABA=</HashCode>
+      <FileName>GameInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankWar.MapElement">
+    <Position X="11.75" Y="3.75" Width="6" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MapElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankWar.MoveBlock">
+    <Position X="0.5" Y="0.5" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQgAAAAEAAAAACAAAAAAAAAAAAIAAAAIAAAAAAA=</HashCode>
+      <FileName>MoveBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankWar.Scene">
+    <Position X="21.5" Y="8" Width="7.5" />
+    <TypeIdentifier>
+      <HashCode>ggIDgICAAGBAMCAQgIAjABCAAkCAAEIAEAAAAgACIAA=</HashCode>
+      <FileName>Scene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankWar.StartForm">
+    <Position X="30" Y="0.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQQACAAABAAAACAAAACAQAEAAAAAAAAAACAgAI=</HashCode>
+      <FileName>StartForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankWar.TankPlayer">
+    <Position X="10" Y="9" Width="10.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAQAQAAwAAAA0wAAAAAQQAAAAIIAAgAAAAIEAw=</HashCode>
+      <FileName>TankPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankWar.Tanks">
+    <Position X="0.5" Y="6.75" Width="8.5" />
+    <TypeIdentifier>
+      <HashCode>hAAAAAQAAYAIAAAAiAAEAQAAAQAkACIQAAQAgAAEAAA=</HashCode>
+      <FileName>Tanks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankWar.TankShot">
+    <Position X="0.5" Y="4.5" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>TankShot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankWar.Properties.Resources">
+    <Position X="23.5" Y="5.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TankWar.Properties.Settings">
+    <Position X="23.75" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TankWar.BonusType">
+    <Position X="24.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAA=</HashCode>
+      <FileName>Bonus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TankWar.ElementType">
+    <Position X="26.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAIAAAAAAAAAAAAAEAAAQAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>MapElement.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TankWar.GameStatus">
+    <Position X="28" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAABAAAAACAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scene.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TankWar.StartOrLoad">
+    <Position X="26.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>StartForm.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TankWar.TankStatus">
+    <Position X="28" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAACAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TankPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TankWar.TowardDirection">
+    <Position X="26.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAICAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>TankPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TankWar.PlayerSymbol">
+    <Position X="24.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TankPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
